@@ -127,10 +127,10 @@ Prestar mucha atención: tanto persona_t como profesor_t __NO SON VARIABLES__, s
 ```
 
 ## Ejemplos
-- [Ejemplo 1](https://github.com/DamRCorba/Informatica2_2-11_2022/tree/master/Clase_11_Abril/ejemplos/Ejemplo1)
+- [Ejemplo 1](https://github.com/DamRCorba/Informatica2_2_11_2022/tree/master/Clase_11_Abril/ejemplos/Ejemplo1)
 > Matríz RGB - Imagen 320x240
 
-- [Ejemplo 2](https://github.com/DamRCorba/Informatica2_2-11_2022/tree/master/Clase_11_Abril/ejemplos/Ejemplo2)
+- [Ejemplo 2](https://github.com/DamRCorba/Informatica2_2_11_2022/tree/master/Clase_11_Abril/ejemplos/Ejemplo2)
 > Dibujo de Caracteres, display dotMatix 8x8
 
 
